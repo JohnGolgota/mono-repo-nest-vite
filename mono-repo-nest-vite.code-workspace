@@ -5,6 +5,7 @@
         }
     ],
     "settings": {
+        "workbench.editor.wrapTabs": false,
         "workbench.colorTheme": "Andromeda",
         "workbench.iconTheme": "vs-seti"
     }
