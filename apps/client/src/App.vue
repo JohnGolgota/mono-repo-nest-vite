@@ -2,7 +2,7 @@
 import { ref } from 'vue';
 const message = ref('Hello Vue 3!')
 const fetchMessage = async () => {
-    const res = await fetch('/api')
+    const res = await fetch('/api/v1')
     message.value = await res.text()
 }
 </script>
