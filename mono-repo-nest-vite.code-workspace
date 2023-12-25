@@ -1,0 +1,11 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "workbench.colorTheme": "Andromeda",
+        "workbench.iconTheme": "vs-seti"
+    }
+}
